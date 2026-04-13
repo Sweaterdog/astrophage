@@ -1,6 +1,6 @@
 # Astrophage — A KSP Mod Inspired by *Project Hail Mary*
 
-A Kerbal Space Program mod that adds **Astrophage**, the alien microorganism propellant from Andy Weir's *Project Hail Mary*, to your game.
+A Kerbal Space Program mod that adds **Astrophage**, the alien microorganism propellant from *Project Hail Mary*, to your game.
 
 ---
 
