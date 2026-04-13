@@ -7,7 +7,7 @@ A Kerbal Space Program mod that adds **Astrophage**, the alien microorganism pro
 ## What This Mod Adds
 
 ### Astrophage Resource
-A new fuel type — **Astrophage** — an alien microorganism that stores staggering amounts of energy. One gram can melt an entire metric ton of steel. In the novel, 2,074,000 kg of astrophage powered a spacecraft on a continuous-thrust interstellar voyage of 11.9 light-years to Tau Ceti.
+A new fuel type — **Astrophage** — an alien microorganism that stores staggering amounts of energy. One gram can melt an entire metric ton of steel. In the movie, 2,074,000 kg of astrophage powered a spacecraft on a continuous-thrust interstellar voyage of 11.9 light-years to Tau Ceti.
 
 ### IX-PHM "Hail Mary" Astrophage Propulsion System
 An engine type used when placing down the "Dawn" engine, which can be changed to the "IX-PHM" engine, with stats befitting an interstellar drive:
